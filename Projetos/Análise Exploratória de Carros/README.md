@@ -43,7 +43,3 @@ A base trabalhada possui **15.411 linhas e 13 colunas**, sendo 6 categóricas e 
 - **Análise Univariada**: entendimento da distribuição de cada variável isoladamente.
 - **Análise Multivariada**: relação entre variáveis (correlação) e comparação de médias entre grupos (bivariada).
 - **Visualização de dados** como ferramenta central de exploração, priorizando gráficos simples e diretos (densidade, contagem, mapa de calor e barras).
-
-## Observação
-
-O notebook segue um fluxo clássico de EDA — entender a base, limpar os dados, classificar os atributos e explorar univariada e multivariadamente — o que o torna um bom material de referência para estudos futuros de Data Science aplicados a outras bases.
